@@ -1,5 +1,6 @@
 
-<h1>About the camp</h1>
+About the camp
+==============
 
 
 * Meet new people
