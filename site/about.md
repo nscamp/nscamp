@@ -22,11 +22,22 @@ What's going to happen there?
 * Work on some bugs fixes to a library you use
 * Progress your side project
 * Chill out and play with new stuff (e.g. iOS 7)
-* ...or maybe you just want to make some new friends in the iOS/OSX community
-* Most importantly the atmosphere is social and supportive
-* You don't have to be a great coder to go
+  
+  
+**Or** maybe you just want to make some new friends in the iOS/OSX community.
+Most importantly the atmosphere is social and supportive. 
 
-It's going to be in the country side approximately 1hr away form Melbourne. We plan to hire a basic camp with simple accommodation and space to pitch a tent (if you want to have it more quite). We try to get some catering organised and some social beverages.  
+You don't have to be a great coder to go
+
+
+Where
+-----
+
+It's going to be in the country side approximately 1hr away form Melbourne. 
+We haven't yet decided where, but if you're interested you should [register]("/register.html") your interest.
+
+We plan to hire a basic camp with simple accommodation and space to pitch a tent (if you want to have it more quite).
+ We try to get some catering organised and some social beverages.  
 
 Basically it is what [railscamp]("http://railscamp.com") is for the ruby community.
 
