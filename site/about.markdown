@@ -1,3 +1,8 @@
+---
+layout: default
+title:  "About the camp"
+date:   2013-07-15
+---
 
 About the camp
 ==============

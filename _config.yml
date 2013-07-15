@@ -1,0 +1,6 @@
+name: NSCamp
+description: A weekend away for iOS and OSX developers and hackers 
+markdown: redcarpet
+pygments: true
+source: site
+destination: public
