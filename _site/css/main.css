@@ -1,16 +1,6 @@
-/* @override 
-	http://0.0.0.0:4000/css/main.css */
-
-/*******************************************************************************
-Slate Theme for Github Pages
-by Jason Costello, @jsncostello
-*******************************************************************************/
-
-/*@import url(pygment_trac.css);*/
-
-/*******************************************************************************
-MeyerWeb Reset
-*******************************************************************************/
+/* ========= */
+/* = RESET = */
+/* ========= */
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -49,6 +39,12 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+
+
+/* ============ */
+/* = ELEMENTS = */
+/* ============ */
 
 
 /*******************************************************************************
@@ -104,10 +100,6 @@ p {
   margin: 10px 0 15px 0;
 }
 
-footer p {
-  color: #f2f2f2;
-}
-
 a {
   text-decoration: none;
   color: #007edf;
@@ -123,31 +115,6 @@ a {
   -o-transition: text-shadow 0.5s ease;
   -ms-transition: color 0.5s ease;
   -ms-transition: text-shadow 0.5s ease;
-}
-
-menu {
-  margin-left: -10px;
-  margin-bottom: -10px;
-}
-
-menu li {
-  display: inline;
-}
-
-menu li a {
-  display: inline-block;
-  padding: 10px;
-  margin: 0;
-}
-
-#main_content a:hover {
-  color: #0069ba;
-  text-shadow: #0090ff 0px 0px 2px;
-}
-
-footer a:hover {
-  color: #43adff;
-  text-shadow: #0090ff 0px 0px 2px;
 }
 
 em {
@@ -274,9 +241,10 @@ img {
   max-width: 100%;
 }
 
-/*******************************************************************************
-Full-Width Styles
-*******************************************************************************/
+
+/* ========= */
+/* = THEME = */
+/* ========= */
 
 .outer {
   width: 100%;
@@ -289,8 +257,13 @@ Full-Width Styles
   margin: 0 auto;
 }
 
-#header_wrap {
-  background: #212121;
+#header {
+  margin: 0;
+  padding: 40px 0 0;
+}
+
+#header a {
+  color: #fff;
 }
 
 #menu-main {
@@ -299,6 +272,21 @@ Full-Width Styles
 
 #menu-main a {
   color: #FFF;
+}
+
+menu {
+  margin-left: -10px;
+  margin-bottom: -10px;
+}
+
+menu li {
+  display: inline;
+}
+
+menu li a {
+  display: inline-block;
+  padding: 10px;
+  margin: 0;
 }
 
 #title {
@@ -317,23 +305,34 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
-#main_content_wrap {
+#main {
   background: #f2f2f2;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #111;
+  padding: 40px 0;
 }
 
-#main_content {
-  padding-top: 40px;
+#main a:hover {
+  color: #0069ba;
+  text-shadow: #0090ff 0px 0px 2px;
 }
 
-#footer_wrap {
+
+#footer {
+  color: #f2f2f2;
   background: #212121;
+  padding: 40px 0;
 }
 
-/*******************************************************************************
-Small Device Styles
-*******************************************************************************/
+#footer h4 {
+  color: #f2f2f2;
+}
+
+#footer a:hover {
+  color: #43adff;
+}
+
+/* ======================= */
+/* = Small Device Styles = */
+/* ======================= */
 
 @media screen and (max-width: 480px) {
   body {
