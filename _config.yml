@@ -3,4 +3,4 @@ description: Social weekend meets hacking with likeminded developers
 markdown: redcarpet
 pygments: true
 source: site
-destination: public
+# destination: public
