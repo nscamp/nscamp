@@ -2,5 +2,5 @@ name: NSCamp
 description: Social weekend meets hacking with likeminded developers
 markdown: redcarpet
 pygments: true
-source: site
+# source: site
 # destination: public
