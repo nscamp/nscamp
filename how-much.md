@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "How much will the camp sot"
+title:  "How much will the camp cost?"
 date:   2013-07-15
 ---
 
