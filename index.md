@@ -30,7 +30,7 @@ Most importantly the atmosphere is social and supportive.
 You don't have to be a great coder to go
 
 
-Basically it is what [railscamp]("http://railscamp.com") is for the ruby community.
+Basically it is what [railscamp](http://railscamp.com) is for the ruby community.
 
   `NSCamp *camp = [[RailsCamp railsCamp] copy];`
 
