@@ -1,3 +1,6 @@
+/* @override 
+	http://0.0.0.0:4000/css/main.css */
+
 /* ========= */
 /* = RESET = */
 /* ========= */
@@ -103,7 +106,6 @@ p {
 a {
   text-decoration: none;
   color: #409DD5;
-  text-shadow: none;
 
   transition: color 0.5s ease;
   -webkit-transition: color 0.5s ease;
@@ -126,13 +128,7 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
-
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
+  border: none;
 }
 
 pre, code {
@@ -151,19 +147,16 @@ pre, code {
 pre {
   width: 100%;
   padding: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
   overflow: auto;
 }
 
 code {
   padding: 3px;
   margin: 0 3px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
 
 pre code {
   display: block;
-  box-shadow: none;
 }
 
 blockquote {
@@ -270,7 +263,7 @@ menu li a {
 #header {
   margin: 0;
   padding: 40px 0 0;
-  background-color: #BABABA;
+  background-color: #202120;
 }
 
 #header a {
@@ -282,12 +275,24 @@ menu li a {
   background-color: #85C4E0;
 }
 
+#menu-main menu.inner {
+	position: relative;
+	left: -10px;
+}
 
-#github-fork {
-  position: absolute; 
+a#github-fork {
+  position: fixed; 
   top: 0; 
   right: 0; 
-  border: 0;
+  padding: 0;
+}
+
+a#github-fork img {
+	border: none;
+	width: auto;
+	height: auto;
+	margin: 0;
+	padding: 0;
 }
 
 /*#menu-main menu {
