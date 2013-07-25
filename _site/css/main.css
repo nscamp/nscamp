@@ -61,7 +61,11 @@ body {
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  background-color: #474747;
+	background: -webkit-radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
+	background: -moz-radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
+	background: -ms-radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
+	background: radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
+  
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -272,10 +276,6 @@ menu li a {
 #header {
   margin: 0;
   padding: 40px 0 0;
-	background-image: -webkit-linear-gradient(top, #343435 30%, #464746 60%);
-	background-image: -moz-linear-gradient(top, #343435 30%, #464746 60%);
-	background-image: -ms-linear-gradient(top, #343435 30%, #464746 60%);
-	background-image: linear-gradient(to bottom, #343435 30%, #464746 60%);
 }
 
 #header a {
