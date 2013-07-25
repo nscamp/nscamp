@@ -14,6 +14,8 @@ We want to organise an Apple developer weekend under the motto of...
 
 It looks like there is quite a bit of interest in a developer weekend and the people we talked to were pretty excited about it. So, we decided to put our hands up to organise the first NSCamp.
 
+Although the exact location [isn't yet worked out](/where.html), NSCamp will be held near Melbourne, Victoria, Australia. 
+
 What's going to happen there?
 -----------------------------
 
@@ -27,7 +29,7 @@ What's going to happen there?
 **Or** maybe you just want to make some new friends in the iOS/OSX community.
 Most importantly the atmosphere is social and supportive. 
 
-You don't have to be a great coder to go
+You don't have to be a great coder to go.
 
 
 Basically it is what [railscamp](http://railscamp.com) is for the ruby community.
