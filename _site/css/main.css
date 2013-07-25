@@ -105,7 +105,7 @@ p {
 
 a {
   text-decoration: none;
-  color: #409DD5;
+  color: #63aedc;
 
   transition: color 0.5s ease;
   -webkit-transition: color 0.5s ease;
@@ -284,7 +284,7 @@ menu li a {
 
 #menu-main {
   margin: 0;
-  background-color: #85C4E0;
+  background-color: #63aedc;
 }
 
 #menu-main menu.inner {
@@ -307,12 +307,12 @@ a#github-fork img {
 	padding: 0;
 }
 
-/*#menu-main menu {
-  margin-left: -10px;
-}*/
-
 #menu-main a {
   color: #212121;
+}
+
+#menu-main a:hover {
+  color: #fff;
 }
 
 #title {
@@ -376,9 +376,7 @@ a#github-fork img {
 		top: 0;
 		background-size: 100%;
 		margin: -20px 0 0 -10px;
-/*    background-size: 100%;
-    margin: -20px;
-*/  }
+  }
 
   .inner {
     padding: 0 80px;
@@ -404,7 +402,7 @@ a#github-fork img {
 		margin: -20px 0 0 -10px;
 	}
 
-  a#github-fork img {
+  h2#tagline, a#github-fork img {
   	display: none;
   }
 
@@ -425,33 +423,15 @@ a#github-fork img {
     padding: 10px;
   }
 
-  h1 {
-    font-size: 28px;
-  }
-
-  h2 {
+  h1, h2 {
     font-size: 24px;
   }
 
-  h3 {
-    font-size: 21px;
-  }
-
-  h4 {
-    font-size: 18px;
-  }
-
-  h5 {
+  h3,h4,h5,h6 {
     font-size: 14px;
   }
 
-  h6 {
-    font-size: 12px;
-  }
-
   code, pre {
-    min-width: 320px;
-    max-width: 480px;
     font-size: 11px;
   }
 
