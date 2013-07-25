@@ -282,6 +282,10 @@ menu li a {
   color: #fff;
 }
 
+#header a h1.title {
+  color: #fff;
+}
+
 #menu-main {
   margin: 0;
   background-color: #63aedc;
@@ -401,7 +405,7 @@ a#github-fork img {
 		background-size: 100%;
 		margin: -20px 0 0 -10px;
 	}
-
+  
   h2#tagline, a#github-fork img {
   	display: none;
   }
