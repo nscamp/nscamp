@@ -271,6 +271,7 @@ menu li a {
 	position: absolute;
 	left: -200px;
 	top: -30px;
+  background-size: 100%;
 }
 
 #header {
@@ -280,6 +281,10 @@ menu li a {
 
 #header a {
   color: #fff;
+}
+
+#header a:hover {
+  background-color: #FF7D22;
 }
 
 #header a h1.title {
