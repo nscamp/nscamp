@@ -221,7 +221,7 @@ a#github-fork img {
   color: #212121;
 }
 
-#menu-main a:hover {
+#menu-main a:hover, #menu-main a.current {
   color: #fff;
 }
 
