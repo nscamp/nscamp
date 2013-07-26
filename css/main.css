@@ -81,26 +81,14 @@ h1 {
   font-weight: 700;
 }
 
-h2 {
+h2, h3, h4 {
+  padding-top: 10px;
   padding-bottom: 10px;
-  font-size: 32px;
-  background: url('images/bg_hr.png') repeat-x bottom;
+  font-size: 22px;
 }
 
-h3 {
-  font-size: 24px;
-}
-
-h4 {
-  font-size: 21px;
-}
-
-h5 {
+h5, h5 {
   font-size: 18px;
-}
-
-h6 {
-  font-size: 16px;
 }
 
 p {
@@ -133,104 +121,6 @@ img {
   padding: 5px;
   margin: 10px 0 10px 0;
   border: none;
-}
-
-pre, code {
-  width: 100%;
-  color: #222;
-  background-color: #fff;
-
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size: 14px;
-
-  border-radius: 2px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-}
-
-pre {
-  width: 100%;
-  padding: 10px;
-  overflow: auto;
-}
-
-code {
-  padding: 3px;
-  margin: 0 3px;
-}
-
-pre code {
-  display: block;
-}
-
-blockquote {
-  color: #666;
-  margin-bottom: 20px;
-  padding: 0 0 0 20px;
-  border-left: 3px solid #bbb;
-}
-
-ul, ol, dl {
-  margin-bottom: 15px
-}
-
-ul li {
-  list-style: inside;
-  padding-left: 20px;
-}
-
-ol li {
-  list-style: decimal inside;
-  padding-left: 20px;
-}
-
-dl dt {
-  font-weight: bold;
-}
-
-dl dd {
-  padding-left: 20px;
-  font-style: italic;
-}
-
-dl p {
-  padding-left: 20px;
-  font-style: italic;
-}
-
-hr {
-  height: 1px;
-  margin-bottom: 5px;
-  border: none;
-  background: url('images/bg_hr.png') repeat-x center;
-}
-
-table {
-  border: 1px solid #373737;
-  margin-bottom: 20px;
-  text-align: left;
- }
-
-th {
-  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  padding: 10px;
-  background: #373737;
-  color: #fff;
- }
-
-td {
-  padding: 10px;
-  border: 1px solid #373737;
- }
-
-form {
-  background: #f2f2f2;
-  padding: 20px;
-}
-
-img {
-  width: 100%;
-  max-width: 100%;
 }
 
 menu {
@@ -271,7 +161,9 @@ menu li a {
 	position: absolute;
 	left: -200px;
 	top: -30px;
-  background-size: 100%;
+  	background-size: 100%;
+  	transition: transform 0.5s ease-in-out;
+  	-webkit-transition: -webkit-transform 0.5s ease-in-out;
 }
 
 #header {
@@ -283,12 +175,19 @@ menu li a {
   color: #fff;
 }
 
-#header a:hover {
-  background-color: #FF7D22;
+#header a:hover #hero {
+  transform: scale(1.02);
+  transform: rotate(2deg);
+  -webkit-transform: scale(1.02);
+  -webkit-transform: rotate(2deg);
 }
 
 #header a h1.title {
   color: #fff;
+}
+
+#header a:hover h1.title {
+  color: #2f94d2;
 }
 
 #menu-main {
@@ -349,6 +248,14 @@ a#github-fork img {
 
 #main a:hover {
   color: #0069ba;
+}
+
+
+#main li {
+  display: list-item;
+  margin-left: 20px;
+  list-style: disc;
+	list-style-position: outside;
 }
 
 
