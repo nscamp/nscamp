@@ -54,6 +54,7 @@ Coding makes me hungry, and this is where the food sponsorship will help
 
 * The sponsorship money goes to buying food, and paying catering to cook it for us, and catering will do the washing up as well
 * Your company name and logo will be next to kitchen "Food sponsored by awesome company", and people will think you're fantastic
+* How much... $2,500
   
 
 ###Internet sponsorship
@@ -61,10 +62,12 @@ There is code a library on the internet that you might need during the weekend
 
 * Depending on the [venue](/where.html) we'll get some 3g/4g dongles for internet access, and some wifi gear for setting up a local network
 * Your company name and logo will <strike>be on the internet</strike> in the hall where "Internet tubes sponsored by awesome company", and people will thank you providing them access to animated gifs
+* How much... $2,500
   
 ###Coffee sponsorship
 We don't know of any developers that don't like a coffee before coding
 
 * Your sponsorship dollars will be spent on some <strike>good</strike> great quality beans and we'll hire a proper coffee machine. We nay also hire a barista, incase there aren't enough developers who fancy themselves as baristas
 * Your company name and logo will be beside the coffee machine "Coffee sponsored by awesome company", plus people be grateful, as you saved them from a weekend without coffee. (just imagine that for a moment)
+* How much... $2,500
   
