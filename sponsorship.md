@@ -32,7 +32,7 @@ If your business is interested in sponsoring, there is a variety of levels/costs
   * 8	available slots
   *	What you get, big thanks and your logo on the website, *but users will have to scroll to see it*
 
-###Mate
+###Mates
   * $200
   * 10 available slots
 	* What you get, thanks and the good vibes that your business helped organise a cool weekend away. 
