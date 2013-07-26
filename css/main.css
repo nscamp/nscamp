@@ -81,13 +81,15 @@ h1 {
   font-weight: 700;
 }
 
-h2, h3, h4 {
+h2 {
   padding-top: 10px;
   padding-bottom: 10px;
   font-size: 22px;
-}
-
-h5, h5 {
+}   
+    
+h3, h4, h5 {
+  padding-top: 4px;
+  padding-bottom: 4px;
   font-size: 18px;
 }
 
