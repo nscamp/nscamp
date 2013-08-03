@@ -4,20 +4,19 @@ title:  "About the camp"
 date:   2013-07-15
 ---
 
-About the camp
-==============
+#About the camp
 
-A bunch of iOS developers had a couple of drinks in may and as a result we came up with NSCamp.
-We want to organise an Apple developer weekend under the motto of...
+##Join NSCamp the first iOS/OSX developer camp in Australia.  
 
-"Social weekend meets hacking with like minded developers"
+The Apple developer weekend will run under the motto of...
+
+> "Social weekend meets hacking with like minded developers"
 
 It looks like there is quite a bit of interest in a developer weekend and the people we talked to were pretty excited about it. So, we decided to put our hands up to organise the first NSCamp.
 
 Although the exact location [isn't yet worked out](/where.html), NSCamp will be held near Melbourne, Victoria, Australia. 
 
-What's going to happen there?
------------------------------
+##What's going to happen there?
 
 * You can code/hack
 * Maybe you've been wanting to extract some code out into a library
