@@ -6,7 +6,7 @@ date:   2013-07-15
 
 #About the camp
 
-##Join NSCamp the first iOS/OSX developer camp in Australia.  
+##NSCamp is the first iOS/OSX developer camp in Australia.  
 
 The Apple developer weekend will run under the motto of...
 
@@ -33,7 +33,7 @@ You don't have to be a great coder to go.
 
 Basically it is what [railscamp](http://railscamps.com) is for the ruby community.
 
-  `NSCamp *camp = [[RailsCamp railsCamp] copy];`
+`NSCamp *camp = [[RailsCamp railsCamp] copy];`
 
 
 So when it is going to happen and how many can attend? 
