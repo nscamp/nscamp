@@ -34,7 +34,10 @@ You don't have to be a great coder to go.
 
 Basically it is what [railscamp](http://railscamps.com) is for the ruby community.
 
-  `NSCamp *camp = [[RailsCamp railsCamp] copy];`
+{% highlight objective-c %}
 
+  NSCamp *camp = [[RailsCamp railsCamp] copy];
+
+{% endhighlight %}
 
 So when it is going to happen and how many can attend? 
