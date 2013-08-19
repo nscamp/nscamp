@@ -1,9 +1,9 @@
 /* @override 
 	http://0.0.0.0:4000/css/main.css */
 
-/* ========= */
-/* = RESET = */
-/* ========= */
+
+
+/* @group html reset */
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -43,16 +43,9 @@ table {
   border-spacing: 0;
 }
 
+/* @end */
 
-
-/* ============ */
-/* = ELEMENTS = */
-/* ============ */
-
-
-/*******************************************************************************
-Theme Styles
-*******************************************************************************/
+/* @group defaults */
 
 body {
   box-sizing: border-box;
@@ -140,10 +133,10 @@ menu li a {
   margin: 0;
 }
 
+/* @end */
 
-/* ========= */
-/* = THEME = */
-/* ========= */
+
+
 
 .outer {
   width: 100%;
@@ -155,6 +148,8 @@ menu li a {
   padding: 0;
   margin: 0 auto;
 }
+
+/* @group top */
 
 #hero {
 	background: url(images/hero.png) left top no-repeat;
@@ -239,6 +234,11 @@ a#github-fork img {
   background: none;
 }
 
+/* @end */
+
+/* @group main
+ */
+
 #main {
   background: #f2f2f2;
   padding: 40px 0;
@@ -260,6 +260,9 @@ a#github-fork img {
 	list-style-position: outside;
 }
 
+/* @end */
+
+/* @group footer */
 
 #footer {
   color: #f2f2f2;
@@ -274,9 +277,60 @@ a#github-fork img {
   color: #43adff;
 }
 
-/* ======================= */
-/* = Small Device Styles = */
-/* ======================= */
+/* @end */
+
+/* @group sponsors */
+
+.sponsor {
+	padding: 50px;
+	overflow: hidden;
+  margin: 0 2% 2% 0;
+  display: inline-block;
+  padding: 0;
+
+  background-image: url(images/nscamp-500.png);
+  background-position: center center;
+  background-color: #c5c5c5;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.sponsor div {
+	display: none;
+}
+
+.sponsor-github {
+	background-image: url(images/github.png);
+}
+
+.sponsor-rea {
+	background-image: url(images/rea.png);
+}
+
+#sponsor-captains .sponsor {
+	min-height: 250px;
+}
+
+.sponsor-2col {
+  width: 46%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.sponsor-2col .sponsor {          
+  width: 46%;
+  min-height: 150px;
+}
+
+
+#sponsor-sailors .sponsor {
+	min-height: 100px;
+	width: 28%;
+}
+
+/* @end */
+
+
 
 @media screen and (max-width: 800px) {
 
