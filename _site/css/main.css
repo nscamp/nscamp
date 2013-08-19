@@ -282,6 +282,7 @@ a#github-fork img {
 /* @group sponsors */
 
 .sponsor {
+
 	padding: 50px;
 	overflow: hidden;
   margin: 0 2% 2% 0;
@@ -293,11 +294,54 @@ a#github-fork img {
   background-color: #c5c5c5;
   background-size: contain;
   background-repeat: no-repeat;
+  
 }
 
 .sponsor div {
 	display: none;
 }
+
+.sponsors-1, .sponsors-2, .sponsors-3 {
+	padding: 0;
+	margin: 10pt 0;
+	display: inline-block;
+}
+
+.sponsors-1 {
+	width: 100%;
+}
+
+.sponsors-1 .sponsor {
+	height: 220px;
+	width: 47.7%;
+}
+
+.sponsors-2 {
+	width: 49.4%;
+}
+
+.sponsors-2 .sponsor {
+	width: 47.5%;
+	height: 140px;
+}
+
+
+.sponsors-3 {
+	width: 100%;
+}
+
+.sponsors-3 .sponsor {
+	width: 14.3%;
+	height: 80px;
+	text-align: justify;
+}
+
+/*.sponsors-2col {
+  width: 47%;
+  margin: 0 2% 2% 0;
+  display: inline-block;
+  vertical-align: top;
+}*/
 
 .sponsor-github {
 	background-image: url(images/github.png);
@@ -307,26 +351,10 @@ a#github-fork img {
 	background-image: url(images/rea.png);
 }
 
-#sponsor-captains .sponsor {
-	min-height: 250px;
-}
-
-.sponsor-2col {
-  width: 46%;
-  display: inline-block;
-  vertical-align: top;
-}
-
-.sponsor-2col .sponsor {          
-  width: 46%;
-  min-height: 150px;
-}
-
-
-#sponsor-sailors .sponsor {
-	min-height: 100px;
-	width: 13%;
-}
+/*#sponsor-sailors .sponsor {
+	min-height: 80px;
+	width: 14%;
+}*/
 
 /* @end */
 

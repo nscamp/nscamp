@@ -14,13 +14,13 @@ If your business is interested in reaching out to an elite group of iOS and OSX 
 
 
 
-<div id="sponsor-captains">
+<div id="sponsor-captains" class="sponsors-1">
   <h2>Captains</h2>
-  <div class="sponsor sponsor-2col"></div>
-  <div class="sponsor sponsor-2col"></div>
+  <div class="sponsor"></div>
+  <div class="sponsor"></div>
 </div>
 
-<div id="sponsor-lientenants" class="sponsor-2col">
+<div id="sponsor-lientenants" class="sponsors-2">
   <h3>Lieutenants</h3>
   <div class="sponsor"></div>
   <div class="sponsor"></div>
@@ -28,7 +28,7 @@ If your business is interested in reaching out to an elite group of iOS and OSX 
   <div class="sponsor"></div>
 </div>
 
-<div id="sponsor-food-drinks" class="sponsor-2col">
+<div id="sponsor-food-drinks" class="sponsors-2">
   <h3>Food &amp; Drinks</h3>
   <a href="http://realestate.com.au" class="sponsor sponsor-rea"><div>REA</div></a>
   <div class="sponsor"></div>
@@ -37,7 +37,7 @@ If your business is interested in reaching out to an elite group of iOS and OSX 
 </div>
 
 
-<div id="sponsor-sailors">
+<div id="sponsor-sailors" class="sponsors-3">
   <h4>Sailors</h4>
   <a href="http://github.com" class="sponsor sponsor-github"><div>Github</div></a>
   <div class="sponsor"></div>
