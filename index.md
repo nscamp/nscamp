@@ -14,7 +14,7 @@ The Apple developer weekend will run under the motto of...
 
 It looks like there is quite a bit of interest in a developer weekend and the people we talked to were pretty excited about it. So, we decided to put our hands up to organise the first NSCamp.
 
-Although the exact location [isn't yet worked out](/where.html), NSCamp will be held near Melbourne, Victoria, Australia. 
+NSCamp will be held in [Kinglake](/where.html) near Melbourne, Victoria, Australia. 
 
 ##What's going to happen there?
 
