@@ -9,7 +9,7 @@ Where will the camp be held?
 
 We haven't yet organised a venue, as we want to try and gauge interest in the camp and then
 based on interest decide how large a venue we need to find. 
-If you're interested in the camp [you should register your interest](/register.html) 
+If you're interested in the camp [you should grab a ticket]({{ site.ticket_url }}) 
 so we can get an idea of numbers.
 
 This is what we're planning on organising...
