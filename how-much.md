@@ -7,10 +7,10 @@ date:   2013-07-15
 How much will the camp cost?
 ============================
 
-We're still in the early stages of organising the camp, so we don't really know how much exactly.
-**However** a ticket to Railscamp *(which is the inspiration for NSCamp)* costs **around $240**, so you
-can expect NSCamp to cost about the same. 
+We have put down a deposit for a camp in [Kinglake in Victoria](http://www.krwc.com.au/). Based on the price of the venue we think...
 
-Please don't hold us to the price, as this may change. We believe the ticket price for each railscamp
-changes depending on where it's located. As some camping spots are more expensive to hire and to get to.
+**the price will be around $300.**
 
+This will cover the camp venue, food and cabins.
+
+Lucky we got [REA](http://realestate.com.au) to [sponsor](/sponsors.html) the beer - so beer is free!
