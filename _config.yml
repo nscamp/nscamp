@@ -1,5 +1,6 @@
 name: NSCamp
 description: Social weekend meets hacking with like-minded developers
+ticket_url: 'https://nscamp.herokuapp.com/rego'
 markdown: redcarpet
 pygments: true
 exclude: [Gemfile, Gemfile.lock, script]
