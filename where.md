@@ -36,9 +36,9 @@ This is what we're planning on organising...
 * *Cabels* to connect your device
 
 ### If you want to be active
-* *a bike*
-* *frizbee*
-* *soccer | footy ball*
+* *Bike*
+* *Frizbee*
+* *Soccer | footy ball*
 
 ### If you want to present
 * *Keynote or PDF presentation*
