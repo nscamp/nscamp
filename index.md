@@ -17,6 +17,7 @@ NSCamp will be held in [Kinglake](/where.html) near Melbourne, Victoria, Austral
 
 ### Tickets:  [are now available  (AUD $300) ](https://nscamp.herokuapp.com/rego)
 
+### [More details](/where.html)
 
 ## What's going to happen there?
 
