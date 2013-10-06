@@ -15,15 +15,12 @@ If your business is interested in reaching out to an elite group of iOS and OSX 
 
 
 <div id="sponsor-captains" class="sponsors-1">
-  <h2>Captains</h2>
-  <div class="sponsor"></div>
+  <h2>Captain</h2>
   <div class="sponsor"></div>
 </div>
 
 <div id="sponsor-lientenants" class="sponsors-2">
   <h3>Lieutenants</h3>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
   <div class="sponsor"></div>
   <div class="sponsor"></div>
 </div>

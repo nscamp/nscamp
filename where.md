@@ -11,17 +11,17 @@ Yeah, we selected a camp.
 It's the [Kinglake Ranges Wilderness Camp](http://www.krwc.com.au/) in Victoria, near Melbourne in Australia.
 
 Althought it's a camp it's not camping. The venue has beds and enough room for us to run our event.
-The rooms are shared. If you like a bit more privacy you could bring a tent and pitch it. Not sure if we can sleep inthe teepees (yes ther are teepeees to match the logo).
+The rooms are shared. If you like a bit more privacy you could bring a tent and pitch it. Not sure if we can sleep in the teepees (yes there are teepeees to match the logo).
 
-This is what we're planning on organising...
+Some facts:
 
 * The camp is in the country side
 * It located approximately 50 min drive from Melbourne
-* Depending on demand and budget we may hire a bus to get everyone to and from the camp or
 * We will facilitate car pooling
 * Accommodation is modest, although we're not roughing it.
 * There will be power/electricity
 * The weekend will be catered, if you have any dietary requirements, *please let us know*
+* There is WIFI. We will check it out before the event.
 
 ## What to bring
 ### If you stay overnight
