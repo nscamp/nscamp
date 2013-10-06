@@ -28,9 +28,9 @@ NSCamp will be held in [Kinglake](/where.html) near Melbourne, Victoria, Austral
 * Chill out and play with new stuff (e.g. iOS 7)
 * **Or** maybe you just want to make some new friends in the iOS/OSX community.
 
-## Special event
+## [Mobile Couch](http://jellystyle.com/podcasts/mobilecouch) live podcast
 
-* [Mobile Couch](http://jellystyle.com/podcasts/mobilecouch) live podcast. The guys from Mobile Couch are doing a live podcast on Sunday. Check out their awesome [podcasts on iTunes](https://itunes.apple.com/au/podcast/mobile-couch/id599454382?mt=2&ign-mpt=uo%3D4)
+* The guys from Mobile Couch are doing a live podcast on Sunday. Check out their awesome [podcasts on iTunes](https://itunes.apple.com/au/podcast/mobile-couch/id599454382?mt=2&ign-mpt=uo%3D4)
 
 
 Most importantly the atmosphere is social and supportive. 
