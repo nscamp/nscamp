@@ -6,20 +6,20 @@ date:   2013-07-15
 
 #About the NSCamp
 
-##NSCamp is the first iOS/OSX developer camp in Australia.
+## NSCamp is the first iOS/OSX developer camp in Australia.
 The Apple developer weekend will run under the motto of...
 
 > "Social weekend meets hacking with like minded developers"
 
 ### When: November 22-25, 2013
 ### Where: [Kinglake](/where.html), Victoria, Australia
-NSCamp will be held in [Kinglake](/where.html) near Melbourne, Victoria, Australia. 
-
 ### Tickets:  [are now available  (AUD $300) ](https://nscamp.herokuapp.com/rego)
-
 ### [More details](/where.html)
+## [Mobile Couch](http://jellystyle.com/podcasts/mobilecouch) live podcast
 
-## What's going to happen there?
+* The guys from Mobile Couch are doing a live podcast on Sunday. Check out their awesome [podcasts on iTunes](https://itunes.apple.com/au/podcast/mobile-couch/id599454382?mt=2&ign-mpt=uo%3D4)
+
+## What's else is going to happen there?
 
 * You can code/hack
 * Maybe you've been wanting to extract some code out into a library
@@ -27,10 +27,6 @@ NSCamp will be held in [Kinglake](/where.html) near Melbourne, Victoria, Austral
 * Progress your side project
 * Chill out and play with new stuff (e.g. iOS 7)
 * **Or** maybe you just want to make some new friends in the iOS/OSX community.
-
-## [Mobile Couch](http://jellystyle.com/podcasts/mobilecouch) live podcast
-
-* The guys from Mobile Couch are doing a live podcast on Sunday. Check out their awesome [podcasts on iTunes](https://itunes.apple.com/au/podcast/mobile-couch/id599454382?mt=2&ign-mpt=uo%3D4)
 
 
 Most importantly the atmosphere is social and supportive. 
