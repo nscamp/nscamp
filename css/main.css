@@ -351,6 +351,14 @@ a#github-fork img {
 	background-image: url(images/rea.png);
 }
 
+.sponsor-odecee {
+	background-image: url(images/odecee.jpg);
+}
+
+.sponsor-jtribe {
+	background-image: url(images/jtribe.png);
+}
+
 /*#sponsor-sailors .sponsor {
 	min-height: 80px;
 	width: 14%;
