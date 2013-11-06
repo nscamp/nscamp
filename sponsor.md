@@ -28,6 +28,7 @@ If your business is interested in reaching out to an elite group of iOS and OSX 
 <div id="sponsor-food-drinks" class="sponsors-2">
   <h3>Food &amp; Drinks</h3>
   <a href="http://realestate.com.au" class="sponsor sponsor-rea"><div>REA</div></a>
+  <div class="sponsor"></div>
 </div>
 
 
