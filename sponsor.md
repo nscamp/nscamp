@@ -23,16 +23,11 @@ If your business is interested in reaching out to an elite group of iOS and OSX 
   <h3>Lieutenants</h3>
   <a href="http://odecee.com.au" class="sponsor sponsor-odecee"><div>odecee</div></a>
   <a href="http://jtribe.com.au" class="sponsor sponsor-jtribe"><div>jtribe</div></a>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
 </div>
 
 <div id="sponsor-food-drinks" class="sponsors-2">
   <h3>Food &amp; Drinks</h3>
   <a href="http://realestate.com.au" class="sponsor sponsor-rea"><div>REA</div></a>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
 </div>
 
 
@@ -40,10 +35,6 @@ If your business is interested in reaching out to an elite group of iOS and OSX 
   <h4>Sailors</h4>
   <a href="http://github.com" class="sponsor sponsor-github"><div>Github</div></a>
   <a href="http://www.envato.com" class="sponsor sponsor-envato"><div>Github</div></a>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
 </div>
 
 
