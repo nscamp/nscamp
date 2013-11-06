@@ -39,7 +39,7 @@ If your business is interested in reaching out to an elite group of iOS and OSX 
 <div id="sponsor-sailors" class="sponsors-3">
   <h4>Sailors</h4>
   <a href="http://github.com" class="sponsor sponsor-github"><div>Github</div></a>
-  <a href="http://github.com" class="sponsor sponsor-envato"><div>Github</div></a>
+  <a href="http://www.envato.com" class="sponsor sponsor-envato"><div>Github</div></a>
   <div class="sponsor"></div>
   <div class="sponsor"></div>
   <div class="sponsor"></div>
