@@ -351,6 +351,10 @@ a#github-fork img {
 	background-image: url(images/rea.png);
 }
 
+.sponsor-envato {
+	background-image: url(images/envato.png);
+}
+
 /*#sponsor-sailors .sponsor {
 	min-height: 80px;
 	width: 14%;
