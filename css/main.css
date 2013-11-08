@@ -363,6 +363,10 @@ a#github-fork img {
 	background-image: url(images/envato.png);
 }
 
+.sponsor-5senses {
+	background-image: url(images/5senses.jpeg);
+}
+
 /*#sponsor-sailors .sponsor {
 	min-height: 80px;
 	width: 14%;
