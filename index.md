@@ -14,10 +14,11 @@ The Apple developer weekend will run under the motto of...
 ### When: November 22-25, 2013
 ### Where: [Kinglake](/where.html), Victoria, Australia
 ### Tickets:  [are now available  (AUD $300) ](https://nscamp.herokuapp.com/rego)
-### [More details](/where.html)
-## [Mobile Couch](http://jellystyle.com/podcasts/mobilecouch) live podcast
+#### [More details](/where.html)
 
-* The guys from Mobile Couch are doing a live podcast on Sunday. Check out their awesome [podcasts on iTunes](https://itunes.apple.com/au/podcast/mobile-couch/id599454382?mt=2&ign-mpt=uo%3D4)
+## Mobile couch live podcast
+
+* The guys from [Mobile Couch](http://jellystyle.com/podcasts/mobilecouch) are doing a live podcast on Sunday. Check out their awesome [podcasts on iTunes](https://itunes.apple.com/au/podcast/mobile-couch/id599454382?mt=2&ign-mpt=uo%3D4)
 
 ## iBeacon Lab 
 
