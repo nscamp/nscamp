@@ -23,6 +23,13 @@ Some facts:
 * The weekend will be catered, if you have any dietary requirements, *please let us know*
 * There is WIFI. We will check it out before the event.
 
+## When?
+November 22-25, 2013
+Friday 5pm: Kickoff and drinks
+Saturday: Workshops and iBeacon Lab
+Sunday: Workshops and Mobile Couch Live Podacast
+Monday: 10am leave
+
 ## What to bring
 ### If you stay overnight
 * *Sleeping bag*. There are beds with matresses. 
