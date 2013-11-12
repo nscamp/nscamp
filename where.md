@@ -10,7 +10,7 @@ Yeah, we selected a camp.
 
 It's the [Kinglake Ranges Wilderness Camp](http://www.krwc.com.au/) in Victoria, near Melbourne in Australia.
 
-Althought it's a camp it's not camping. The venue has beds and enough room for us to run our event.
+Althought it's a camp it's not camping. The venue has beds and enough room for us to run our events.
 The rooms are shared. If you like a bit more privacy you could bring a tent and pitch it. Not sure if we can sleep in the teepees (yes there are teepeees to match the logo).
 
 Some facts:
@@ -22,6 +22,7 @@ Some facts:
 * There will be power/electricity
 * The weekend will be catered, if you have any dietary requirements, *please let us know*
 * There is WIFI. We will check it out before the event.
+* It's fine to drop in for just a day if you cannot spend the hole weekend ([contact us](/contact.html) if you need a day pass)
 
 ## When?
 * November 22-25, 2013
