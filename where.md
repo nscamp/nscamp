@@ -24,11 +24,11 @@ Some facts:
 * There is WIFI. We will check it out before the event.
 
 ## When?
-November 22-25, 2013
-Friday 5pm: Kickoff and drinks
-Saturday: Workshops and iBeacon Lab
-Sunday: Workshops and Mobile Couch Live Podacast
-Monday: 10am leave
+* November 22-25, 2013
+* Friday 5pm: Kickoff and drinks
+* Saturday: Workshops and iBeacon Lab
+* Sunday: Workshops and Mobile Couch Live Podacast
+* Monday: 10am leave
 
 ## What to bring
 ### If you stay overnight
