@@ -26,7 +26,7 @@ Some facts:
 
 ## When?
 * November 22-25, 2013
-* Friday 5pm: Kickoff and drinks
+* Friday 6pm: Kickoff and drinks
 * Saturday: Workshops and iBeacon Lab
 * Sunday: Workshops and Mobile Couch Live Podacast
 * Monday: 10am leave
