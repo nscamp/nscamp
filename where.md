@@ -17,14 +17,11 @@ date:   2013-07-23
 
 NSCamp will be at the [Kinglake Ranges Wilderness Camp](http://www.krwc.com.au/How%20to%20get%20here.html) in Victoria, near Melbourne in Australia.
 
-*Camp Address:* 
+**Camp Address:** 
 
-Kinglake Ranges Wilderness Camp
-
-1419, Yea Road
-
-Kinglake West, Victoria, 3757
-
+Kinglake Ranges Wilderness Camp</br>
+1419, Yea Road</br>
+Kinglake West, Victoria, 3757</br>
 Phone: 03 5786 5230 or 03 5786 5282 
 
 [Google Map](https://maps.google.com.au/maps?q=1419+Whittlesea-Yea+Road+Kinglake+West,+Victoria,+3757&ie=UTF-8&hq=&hnear=0x6ad7c5eec6253d1b:0xc9636f1d8f978879,1419+Whittlesea-Yea+Rd,+Kinglake+West+VIC+3757&gl=au&ei=WliIUuGpBaahigeMv4HYAg&ved=0CCsQ8gEwAA)
