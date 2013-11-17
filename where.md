@@ -33,12 +33,12 @@ If you like a bit more privacy you could bring a tent.
 
 * The camp is in the country side
 * It located approximately 60 min drive from Melbourne
-* We try facilitate car pooling so let us know if you can take ppl.
+* We will try to facilitate car pooling. So let us know if you can help out.
 * Accommodation is modest, although we're not roughing it.
 * There will be power/electricity
 * The weekend will be catered, if you have any dietary requirements, *please let us know*
 * There is WIFI. Speedtest showed 12Mbps.
-* If you cannot spend the whole weekend you may want to get a day pass. ([contact us](/contact.html) if you need a day pass)
+* If you cannot spend the whole weekend you can [ask us for a day pass](/contact.html)
 
 
 ## What to bring
