@@ -20,7 +20,7 @@ NSCamp will be at the [Kinglake Ranges Wilderness Camp](http://www.krwc.com.au/H
 **Camp Address:** 
 
 Kinglake Ranges Wilderness Camp</br>
-1419, Yea Road</br>
+1419 Whittlesea-Yea Road</br>
 Kinglake West, Victoria, 3757</br>
 Phone: 03 5786 5230 or 03 5786 5282 
 
@@ -29,7 +29,7 @@ Phone: 03 5786 5230 or 03 5786 5282
 The venue has beds, a large main space, breakout rooms, 3 teepees plus a huge outdoor area.
 
 The bed rooms are shared and there are proper showers. 
-If you like a bit more privacy you could bring a tent. 
+If you like a bit more privacy you are welcome to bring your own tent. 
 
 * The camp is in the country side
 * It located approximately 60 min drive from Melbourne
