@@ -32,7 +32,7 @@ The bed rooms are shared and there are proper showers.
 If you like a bit more privacy you are welcome to bring your own tent. 
 
 * The camp is in the country side
-* It located approximately 60 min drive from Melbourne
+* It is located approximately 60 min drive from Melbourne and 50 min from the airport.
 * We will try to facilitate car pooling. So let us know if you can help out.
 * Accommodation is modest, although we're not roughing it.
 * There will be power/electricity
