@@ -27,6 +27,7 @@ The Apple developer weekend will run under the motto of...
 ## You workshop here?
 
 * If you have something you want to present or run a workshop [let us know](mailto:hack@nscamp.com) and we will add it here...
+* Chendo is running a Xcode plugin workshop.
 
 ## What's else is going to happen there?
 * There will be a board with workshops and sessions that people can self-organise
