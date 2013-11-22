@@ -22,7 +22,7 @@ If your business is interested in reaching out to an elite group of iOS and OSX 
 <div id="sponsor-lientenants" class="sponsors-2">
   <h3>Lieutenants</h3>
   <a href="http://odecee.com.au" class="sponsor sponsor-odecee"><div>odecee</div></a>
-  <div id="sponosr"></div>
+  <div class="sponsor"></div>
 </div>
 
 <div id="sponsor-food-drinks" class="sponsors-2">
