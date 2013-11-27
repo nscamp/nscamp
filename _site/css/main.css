@@ -289,9 +289,9 @@ a#github-fork img {
   display: inline-block;
   padding: 0;
 
-  background-image: url(images/nscamp-500.png);
+/*  background-image: url(images/nscamp-500.png);
+*//*  background-color: #c5c5c5;*/
   background-position: center center;
-  background-color: #c5c5c5;
   background-size: contain;
   background-repeat: no-repeat;
   
@@ -305,6 +305,7 @@ a#github-fork img {
 	padding: 0;
 	margin: 10pt 0;
 	display: inline-block;
+  vertical-align: top;
 }
 
 .sponsors-1 {
