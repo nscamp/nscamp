@@ -13,7 +13,7 @@ thanks to our sponsors we can keep the cost of attending NSCamp at a reasonable 
 
 <div id="sponsor-captains" class="sponsors-1">
   <h2>Captain</h2>
-  <a href="http://jtribe.com.au" class="sponsor sponsor-jtribe"><div>jtribe</div></a>
+  <a href="http://jtribe.com.au?ref=nscamp" class="sponsor sponsor-jtribe"><div>jtribe</div></a>
 </div>
 
 <div id="sponsor-lientenants" class="sponsors-2">
