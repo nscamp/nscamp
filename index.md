@@ -1,41 +1,15 @@
 ---
 layout: default
-title:  "About the camp"
+title:  "Social weekend meets hacking with like minded developers"
 date:   2013-07-15
 ---
-
-#About the camp
-
-##NSCamp is the first iOS/OSX developer camp in Australia.  
-
-The Apple developer weekend will run under the motto of...
-
-> "Social weekend meets hacking with like minded developers"
-
-It looks like there is quite a bit of interest in a developer weekend and the people we talked to were pretty excited about it. So, we decided to put our hands up to organise the first NSCamp.
-
-Although the exact location [isn't yet worked out](/where.html), NSCamp will be held near Melbourne, Victoria, Australia. 
-
-##What's going to happen there?
-
-* You can code/hack
-* Maybe you've been wanting to extract some code out into a library
-* Work on some bugs fixes to a library you use
-* Progress your side project
-* Chill out and play with new stuff (e.g. iOS 7)
-  
-  
-**Or** maybe you just want to make some new friends in the iOS/OSX community.
-Most importantly the atmosphere is social and supportive. 
-
-You don't have to be a great coder to go.
+   
+#NSCamp is over for 2013
+   
+To keep updated with news from this years camp and plans for NSCamp 2014 you should follow [@nscamp_au](https://twitter.com/nscamp_au) on twitter.
 
 
-Basically it is what [railscamp](http://railscamps.com) is for the ruby community.
+If you attended nscamp, we hope you had a great time. There is a [flickr set](http://www.flickr.com/photos/109763057@N06/sets/72157638064175904/) of photos from the camp. If you have any photos you'd like to share [ping us](https://twitter.com/nscamp_au) on twitter.
 
+Once again, thank you to our [awesome sponsors](/sponsors.html) for making NSCamp possible.
 
-{% highlight objective-c %}
-  NSCamp *camp = [[RailsCamp railsCamp] copy];
-{% endhighlight %}
-
-So when it is going to happen and how many can attend? 

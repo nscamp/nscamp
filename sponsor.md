@@ -4,47 +4,38 @@ title:  "Sponsor NSCamp"
 date:   2013-07-26
 ---
 
-#Sponsor NSCamp
+#Thanks to our sponsors
 
 Costs for food, beverages and *possibly internet* can mount up, 
-so we're offering sponsorship opportunities for NSCamp. This is so we can keep the cost
-of attending NSCamp at a reasonable level. 
-
-If your business is interested in reaching out to an elite group of iOS and OSX developers, download our [sponsor package (pdf)](https://dl.dropboxusercontent.com/s/2npjj92ut5qe6s7/NSCamp%20Sponsor%20Packages.pdf)
+thanks to our sponsors we can keep the cost of attending NSCamp at a reasonable level. 
 
 
 
-<div id="sponsor-captains">
-  <h2>Captains</h2>
-  <div class="sponsor sponsor-2col"></div>
-  <div class="sponsor sponsor-2col"></div>
+<div id="sponsor-captains" class="sponsors-1">
+  <h2>Captain</h2>
+  <a href="http://jtribe.com.au" class="sponsor sponsor-jtribe"><div>jtribe</div></a>
 </div>
 
-<div id="sponsor-lientenants" class="sponsor-2col">
+<div id="sponsor-lientenants" class="sponsors-2">
   <h3>Lieutenants</h3>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
+  <a href="http://odecee.com.au" class="sponsor sponsor-odecee"><div>odecee</div></a>
   <div class="sponsor"></div>
 </div>
 
-<div id="sponsor-food-drinks" class="sponsor-2col">
+<div id="sponsor-food-drinks" class="sponsors-2">
   <h3>Food &amp; Drinks</h3>
   <a href="http://realestate.com.au" class="sponsor sponsor-rea"><div>REA</div></a>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
+  <a href="http://www.fivesenses.com.au/" class="sponsor sponsor-5senses"><div>Five Senses Coffee</div></a>
 </div>
 
 
-<div id="sponsor-sailors">
+<div id="sponsor-sailors" class="sponsors-3">
   <h4>Sailors</h4>
   <a href="http://github.com" class="sponsor sponsor-github"><div>Github</div></a>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
-  <div class="sponsor"></div>
 </div>
 
+<div id="sponsor-mates" class="sponsors-3">
+  <h4>Mates</h4>
+  <a href="http://www.envato.com" class="sponsor sponsor-envato"><div>Github</div></a>
+</div>
 
