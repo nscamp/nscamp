@@ -336,13 +336,6 @@ a#github-fork img {
 	text-align: justify;
 }
 
-/*.sponsors-2col {
-  width: 47%;
-  margin: 0 2% 2% 0;
-  display: inline-block;
-  vertical-align: top;
-}*/
-
 .sponsor-github {
 	background-image: url(images/github.png);
 }
@@ -350,11 +343,6 @@ a#github-fork img {
 .sponsor-rea {
 	background-image: url(images/rea.png);
 }
-
-/*#sponsor-sailors .sponsor {
-	min-height: 80px;
-	width: 14%;
-}*/
 
 /* @end */
 
