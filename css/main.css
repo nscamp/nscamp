@@ -312,7 +312,7 @@ a#github-fork img {
 
 .sponsors-1 .sponsor {
 	height: 220px;
-	width: 47.7%;
+	width: 37.7%;
 }
 
 .sponsors-2 {
@@ -333,6 +333,10 @@ a#github-fork img {
 	width: 14.25%;
 	height: 80px;
 	text-align: justify;
+}
+
+.sponsor-placeholder {
+	background-image: url(images/placeholder.png);
 }
 
 .sponsor-github {
