@@ -1,5 +1,5 @@
 /* @override 
-	http://0.0.0.0:4000/css/main.css */
+  http://0.0.0.0:4000/css/main.css */
 
 
 
@@ -50,14 +50,15 @@ table {
 body {
   box-sizing: border-box;
   color:#696A6A;
+  background-color: white;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-	background: -webkit-radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
-	background: -moz-radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
-	background: -ms-radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
-	background: radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
+/*  background: -webkit-radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
+  background: -moz-radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
+  background: -ms-radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;
+  background: radial-gradient(ellipse farthest-corner, #6e6d6d 0%, #000000 100%) #474747;*/
   
 }
 
@@ -133,10 +134,64 @@ menu li a {
   margin: 0;
 }
 
+@font-face {
+    font-family: "Axis";
+    src: url("../fonts/Axis\ ExtraBold.otf");
+}
+
+@font-face {
+    font-family: "Streamster";
+    src: url("../fonts/Streamster.ttf");
+}
+
 /* @end */
 
+/* @group map */
 
+/* Modal Header */
+.modal-header {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
 
+/* Modal Body */
+.modal-body {padding: 2px 16px;}
+
+/* Modal Footer */
+.modal-footer {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top: -300px; opacity: 0} 
+    to {top: 0; opacity: 1}
+}
+
+@keyframes animatetop {
+    from {top: -300px; opacity: 0}
+    to {top: 0; opacity: 1}
+}
+
+/* @end */
 
 .outer {
   width: 100%;
@@ -144,7 +199,7 @@ menu li a {
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 820px;
   padding: 0;
   margin: 0 auto;
 }
@@ -152,15 +207,19 @@ menu li a {
 /* @group top */
 
 #hero {
-	background: url(images/hero.png) left top no-repeat;
-	height: 200px;
-	width: 200px;
-	position: absolute;
-	left: -200px;
-	top: -30px;
-  	background-size: 100%;
-  	transition: transform 0.5s ease-in-out;
-  	-webkit-transition: -webkit-transform 0.5s ease-in-out;
+  background: url(images/hero.png) center top no-repeat;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 310px;
+  top: -30px;
+    background-size: 100%;
+    transition: transform 0.5s ease-in-out;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out;
+}
+
+#googleMap {
+  pointer-events: none;
 }
 
 #header {
@@ -169,7 +228,7 @@ menu li a {
 }
 
 #header a {
-  color: #fff;
+  color: #000;
 }
 
 #header a:hover #hero {
@@ -180,11 +239,17 @@ menu li a {
 }
 
 #header a h1.title {
-  color: #fff;
+  color: #000;
+  text-align: center;
+  font-family: 'Axis';
 }
 
 #header a:hover h1.title {
-  color: #2f94d2;
+  color: #afbcd1;
+}
+
+#header a:hover p {
+  color: #afbcd1;
 }
 
 #menu-main {
@@ -193,8 +258,8 @@ menu li a {
 }
 
 #menu-main menu.inner {
-	position: relative;
-	left: -10px;
+  position: relative;
+  left: -10px;
 }
 
 a#github-fork {
@@ -205,11 +270,11 @@ a#github-fork {
 }
 
 a#github-fork img {
-	border: none;
-	width: auto;
-	height: auto;
-	margin: 0;
-	padding: 0;
+  border: none;
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 0;
 }
 
 #menu-main a {
@@ -220,6 +285,11 @@ a#github-fork img {
   color: #fff;
 }
 
+/*h1#title {
+    text-align: center;
+  width:100%;
+}*/
+
 #title {
   margin: 0;
   color: #fff;
@@ -228,10 +298,16 @@ a#github-fork img {
 }
 
 #tagline {
-  color: #fff;
-  font-size: 16px;
+  color: #000;
+  font-size: 18px;
   font-weight: 300;
-  background: none;
+  text-align: center;
+  /*font-family: 'Axis';*/
+}
+
+#date {
+  text-align: center;
+  font-family: 'Axis';
 }
 
 /* @end */
@@ -239,8 +315,22 @@ a#github-fork img {
 /* @group main
  */
 
+.eventDate {
+  font-family: 'Axis';
+  color: black;
+  text-align: justify;
+  font-size: 400%;
+}
+
+.eventDate:after {
+  content: "";
+    display: inline-block;
+    width: 100%;
+}
+
+
 #main {
-  background: #f2f2f2;
+  background: white;
   padding: 40px 0;
 }
 
@@ -257,7 +347,7 @@ a#github-fork img {
   display: list-item;
   margin-left: 20px;
   list-style: disc;
-	list-style-position: outside;
+  list-style-position: outside;
 }
 
 /* @end */
@@ -283,8 +373,8 @@ a#github-fork img {
 
 .sponsor {
 
-	padding: 50px;
-	overflow: hidden;
+  padding: 50px;
+  overflow: hidden;
   margin: 0 2% 2% 0;
   display: inline-block;
   padding: 0;
@@ -296,71 +386,71 @@ a#github-fork img {
 }
 
 .sponsor div {
-	display: none;
+  display: none;
 }
 
 .sponsors-1, .sponsors-2, .sponsors-3 {
-	padding: 0;
-	margin: 10pt 0;
-	display: inline-block;
+  padding: 0;
+  margin: 10pt 0;
+  display: inline-block;
   vertical-align: top;
 }
 
 .sponsors-1 {
-	width: 100%;
+  width: 100%;
 }
 
 .sponsors-1 .sponsor {
-	height: 220px;
-	width: 37.7%;
+  height: 220px;
+  width: 37.7%;
 }
 
 .sponsors-2 {
-	width: 49.4%;
+  width: 49.4%;
 }
 
 .sponsors-2 .sponsor {
-	width: 47.5%;
-	height: 140px;
+  width: 47.5%;
+  height: 140px;
 }
 
 
 .sponsors-3 {
-	width: 100%;
+  width: 100%;
 }
 
 .sponsors-3 .sponsor {
-	width: 14.25%;
-	height: 80px;
-	text-align: justify;
+  width: 14.25%;
+  height: 80px;
+  text-align: justify;
 }
 
 .sponsor-placeholder {
-	background-image: url(images/placeholder.png);
+  background-image: url(images/placeholder.png);
 }
 
 .sponsor-github {
-	background-image: url(images/github.png);
+  background-image: url(images/github.png);
 }
 
 .sponsor-rea {
-	background-image: url(images/rea.png);
+  background-image: url(images/rea.png);
 }
 
 .sponsor-odecee {
-	background-image: url(images/odecee.jpg);
+  background-image: url(images/odecee.jpg);
 }
 
 .sponsor-jtribe {
-	background-image: url(images/jtribe.png);
+  background-image: url(images/jtribe.png);
 }
 
 .sponsor-envato {
-	background-image: url(images/envato.png);
+  background-image: url(images/envato.png);
 }
 
 .sponsor-5senses {
-	background-image: url(images/5senses.jpeg);
+  background-image: url(images/5senses.jpeg);
 }
 
 /* @end */
@@ -374,15 +464,15 @@ a#github-fork img {
   }
   
   #hero {
-		background: url(images/hero.png) left top no-repeat;
-		height: 80px;
-		width: 80px;
-		position: relative;
-		left: 0;
-		right: 0;
-		top: 0;
-		background-size: 100%;
-		margin: -20px 0 0 -10px;
+    background: url(images/hero.png) left top no-repeat;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-size: 100%;
+    margin: -20px 0 0 -10px;
   }
 
   .inner {
@@ -397,20 +487,20 @@ a#github-fork img {
     font-size:14px;
   }
   
-	#hero {
-		background: url(images/hero.png) left top no-repeat;
-		height: 80px;
-		width: 80px;
-		position: relative;
-		left: 0;
-		right: 0;
-		top: 0;
-		background-size: 100%;
-		margin: -20px 0 0 -10px;
-	}
+  #hero {
+    background: url(images/hero.png) left top no-repeat;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-size: 100%;
+    margin: -20px 0 0 -10px;
+  }
   
   h2#tagline, a#github-fork img {
-  	display: none;
+    display: none;
   }
 
   .inner {
