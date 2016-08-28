@@ -1,12 +1,10 @@
 ---
 layout: default
-title:  "Social weekend meets hacking with like minded iOS developers"
-date:   2016-08-12
+title:  "A weekend of hacking for iOS and macOS developers everywhere."
+date:   2016-08-28
 ---
    
-# NSCamp 2016 - Comming Soon!
-   
-## A social weekend for like-minded iOS and macOS developers.
+# NSCamp 2016 - Coming Soon!
 
 REGISTER
 
