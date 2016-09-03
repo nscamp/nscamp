@@ -1,27 +1,61 @@
 ---
 layout: default
-title:  "A weekend of hacking for iOS and macOS developers everywhere."
+title:  "A weekend of hacking for iOS, macOS, tvOS & watchOS developers everywhere."
 date:   2016-08-28
 ---
-   
-# NSCamp 2016 - Coming Soon!
 
-REGISTER
+---
 
-When: 18-22 Nov 2016
+<br>
 
-Where: Lord Sommers Camp (add map)
+## When:
 
-Who: iOS and MacOS developers in Australia
+18th to the 22nd of November, 2016
 
-Why: Because it's the best way to meet other devs, hack on your side project, create some open source code, have a good time.
+---<br>
 
-What: Founded in 2013, NSCamp is Australia’s iOS/OSX developer camp. Part social getaway, part hack weekend, NSCamp creates an environment where developers can work on their own projects as well as meet, collaborate with, present to and learn from like-minded people.
+## Who:
 
-## Sponsors 2016
+iOS and macOS developers from around Australia, and maybe even the world!
 
-Once again, thank you to our awesome sponsors for making NSCamp possible.
+---<br>
 
+## Why:
+
+Wanna meet other devs? 
+_Finally_ get that side project finished? 
+Create that open-source library you've spoken about since iPhoneOS 1.1?
+Or just have a good time with other like-minded people?
+
+<div id="googleMap" style="height:512px; pointer-events: none;"></div><br/>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p id="register"><a href="/"><h2>Register Now</h2></a></p>
+
+---<br>
+
+## About NSCamp
+
+NSCamp was founded in 2013, and is Australia’s iOS, macOS, tvOS and watchOS developer camp. Part social getaway, part hacking weekend, developers can work on their side projects, as well as meet, collaborate with, present to and learn from like-minded people.
+
+---<br>
+
+## Our Sponsors for 2016
+
+Once again, a heartfelt thank you goes out to our sponsors for making NSCamp possible in 2016.
 
 <div id="sponsor-captains" class="sponsors-1">
   <h2>Captains</h2>

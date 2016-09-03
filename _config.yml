@@ -1,8 +1,8 @@
 name: NSCamp
-description: Social weekend meets hacking with like-minded iOS and OSX developers
+description: A weekend of hacking for iOS, macOS, tvOS & watchOS developers everywhere.
 ticket_url: 'https://nscamp.herokuapp.com/rego'
 #markdown: redcarpet
 #highlighter: pygments
-exclude: [Gemfile, Gemfile.lock, script]
+exclude: [Gemfile, Gemfile.lock, script, Rakefile]
 # source: site
 # destination: public

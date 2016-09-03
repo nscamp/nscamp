@@ -1,0 +1,39 @@
+<!doctype html> 
+<html lang="en"> 
+<head>
+  <meta charset="utf-8">
+  <title>{{site.name}}</title>
+  <meta name="author" content="{{site.author}}">
+  <meta name="description" content="{{site.description}}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="{{ site.url }}/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="{{ site.url }}/apple-touch-icon.png" />
+  
+  <link rel="stylesheet" href="{{ site.url }}/style.css" />
+  <link href='http://fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'>
+
+  <script src="http://maps.googleapis.com/maps/api/js"></script>
+        <script>
+          function initialize() {
+            var myLatLng = {lat: -38.390367, lng: 145.144640};
+
+            var mapProp = {
+              center: myLatLng,
+              zoom:16,
+              mapTypeId:google.maps.MapTypeId.ROADMAP
+            };
+            
+            var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+            var marker = new google.maps.Marker({
+              position: myLatLng,
+              map: map,
+              title: 'NSCamp 2016'
+            });
+          
+          }
+          google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
+</head>
+<body>

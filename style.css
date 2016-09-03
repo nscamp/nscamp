@@ -1,0 +1,197 @@
+/* Styles for Heather - A Hyperminimal Jekyll Theme */
+
+/* BASSCSS Reset - http://jxnblk.github.io/basscss */
+body, h1, h2, h3, h4, h5, h6, dl, ol, ul, p,
+button, input, select, textarea {
+  margin: 0;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+  display: block;
+}
+
+
+body {
+  overflow-x: hidden;
+  color: #333;
+  font-size: 100%;
+  line-height: 1.75;
+  font-family: 'Merriweather', serif;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+  line-height: 1.25;
+  position: relative;
+}
+h1, .h1 {
+  font-size: 32px;
+  margin-bottom: 32px;
+  position: relative;
+  text-align: center;
+}
+h2, .h2, h3, .h3, h4, h5, h6 { 
+  font-size: 24px;
+  margin-bottom: 16px;
+  position: relative;
+  text-align: center;
+}
+p, .p {
+  font-size: 18px;
+  margin-bottom: 32px;
+  position: relative;
+  text-align: center;
+}
+small, .small { font-size: 16px; }
+
+/*#descp {
+  text-align: center;
+}*/
+
+@media screen and (min-width: 640px) {
+  h1, .h1 { font-size: 48px; }
+  h2, .h2 { font-size: 32px; }
+  p, .p   { font-size: 20px; }
+}
+
+a { color: #09c; text-decoration: none; }
+a:hover { 
+  color: #069;
+  transform: scale(1.02);
+  transform: rotate(2deg);
+  -webkit-transform: scale(1.02);
+  -webkit-transform: rotate(2deg);
+}
+h1 a { color: #333;}
+
+hr {
+  border-top: 1px solid #ccc;
+}
+
+#googleMap {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+}
+
+#register {
+  color: #333;
+}
+
+.wrap {
+  width: 90%;
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 32px 5% 64px 5%;
+}
+
+.m-0 { margin-top: 0; margin-bottom: 0; }
+.mb { 
+  margin-bottom: 64px;
+}
+
+a:hover {
+  transform: scale(1.02);
+  transform: rotate(2deg);
+  -webkit-transform: scale(1.02);
+  -webkit-transform: rotate(2deg);
+}
+
+.post { margin-bottom: 96px; }
+.post img { max-width: 100%; }
+
+.center { text-align: center; }
+.fl { float: left; }
+.fr { float: right; }
+
+.gray { color: #999; }
+
+.sponsor {
+
+  padding: 50px;
+  overflow: hidden;
+  margin: 0 2% 2% 0;
+  display: inline-block;
+  padding: 0;
+  text-align: center;
+
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}
+
+.sponsor div {
+  display: none;
+}
+
+.sponsors-1, .sponsors-2, .sponsors-3 {
+  padding: 0;
+  margin: 10pt 0;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+}
+
+.sponsors-1 {
+  width: 100%;
+}
+
+.sponsors-1 .sponsor {
+  height: 220px;
+  width: 37.7%;
+}
+
+.sponsors-2 {
+  width: 49.4%;
+}
+
+.sponsors-2 .sponsor {
+  width: 47.5%;
+  height: 140px;
+}
+
+
+.sponsors-3 {
+  width: 100%;
+}
+
+.sponsors-3 .sponsor {
+  width: 14.25%;
+  height: 80px;
+  text-align: justify;
+}
+
+.sponsor-placeholder {
+  background-image: url(./img//placeholder.png);
+}
+
+.sponsor-github {
+  background-image: url(./img/github.png);
+}
+
+.sponsor-rea {
+  background-image: url(./img/rea.png);
+}
+
+.sponsor-odecee {
+  background-image: url(./img/odecee.jpg);
+}
+
+.sponsor-jtribe {
+  background-image: url(./img/jtribe.png);
+}
+
+.sponsor-envato {
+  background-image: url(./img/envato.png);
+}
+
+.sponsor-5senses {
+  background-image: url(./img/5senses.jpeg);
+}
+
+/* @end */
