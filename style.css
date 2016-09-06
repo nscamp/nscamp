@@ -131,7 +131,7 @@ a:hover {
 
 .sponsors-1, .sponsors-2, .sponsors-3 {
   padding: 0;
-  margin: 10pt 0;
+  margin: 0pt 0;
   display: inline-block;
   text-align: center;
   vertical-align: top;
@@ -147,7 +147,7 @@ a:hover {
 }
 
 .sponsors-2 {
-  width: 49.4%;
+  width: 49%;
 }
 
 .sponsors-2 .sponsor {

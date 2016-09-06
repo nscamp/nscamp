@@ -11,6 +11,7 @@ date:   2016-08-28
 ## When:
 
 18th to the 22nd of November, 2016
+at [Lord Somers Camp](http://www.lordsomerscamp.com/)
 
 ---<br>
 
@@ -27,7 +28,7 @@ _Finally_ get that side project finished?
 Create that open-source library you've spoken about since iPhoneOS 1.1?
 Or just have a good time with other like-minded people?
 
-<div id="googleMap" style="height:512px; pointer-events: none;"></div><br/>
+<div id="googleMap" style="height:480px; pointer-events: none;"></div><br/>
 
 <br>
 <br>
@@ -64,26 +65,26 @@ Once again, a heartfelt thank you goes out to our sponsors for making NSCamp pos
 </div>
 
 <div id="sponsor-lientenants" class="sponsors-2">
-  <h3>Lieutenants</h3>
+  <h4>Lieutenants</h4>
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
   <!-- <div class="sponsor"></div> -->
 </div>
 
 <div id="sponsor-food-drinks" class="sponsors-2">
-  <h3>Food &amp; Drinks</h3>
+  <h4>Food &amp; Drinks</h4>
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
 </div>
 
 
 <div id="sponsor-sailors" class="sponsors-3">
-  <h4>Sailors</h4>
+  <h5>Sailors</h5>
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
 </div>
 
 <div id="sponsor-mates" class="sponsors-3">
-  <h4>Mates</h4>
+  <h5>Mates</h5>
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
