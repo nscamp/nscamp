@@ -11,7 +11,12 @@ date:   2016-08-28
 ## When:
 
 18th to the 22nd of November, 2016
-at [Lord Somers Camp](http://www.lordsomerscamp.com/)
+
+---<br>
+
+## Where:
+
+[Lord Somers Camp](https://www.lscph.org.au/), 1.5hrs drive from Melbourne.
 
 ---<br>
 
