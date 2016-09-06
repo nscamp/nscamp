@@ -10,6 +10,10 @@ The NSCamp website is a simple site for the Australian iOS, macOS, tvOS and watc
 - Install _Jekyll_ ([see here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/))
 - run `bundle install`
 
+## Running Jekyll locally
+
+```script/run```
+
 ## Troubleshooting
 
 - Install `nokogiri` if you haven't already done so.
