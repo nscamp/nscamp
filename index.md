@@ -78,3 +78,6 @@ Once again, a heartfelt thank you goes out to our sponsors for making NSCamp pos
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
 </div>
 
+
+---
+
