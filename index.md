@@ -30,21 +30,9 @@ Or just have a good time with other like-minded people?
 
 <div id="googleMap" style="height:480px; pointer-events: none;"></div><br/>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<p id="register"><a href="/"><h2>Register Now</h2></a></p>
+
+<p id="register" style="margin-top:500px"><a href="/"><h2>Register Now</h2></a></p>
 
 ---<br>
 
