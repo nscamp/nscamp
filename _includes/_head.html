@@ -13,27 +13,27 @@
   <link rel="stylesheet" href="{{ site.url }}/style.css" />
   <link href='http://fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'>
 
-  <script src="http://maps.googleapis.com/maps/api/js"></script>
-        <script>
-          function initialize() {
-            var myLatLng = {lat: -38.390367, lng: 145.144640};
+  <script>
+    function initialize() {
+      var myLatLng = {lat: -38.390367, lng: 145.144640};
 
-            var mapProp = {
-              center: myLatLng,
-              zoom:16,
-              mapTypeId:google.maps.MapTypeId.ROADMAP
-            };
-            
-            var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+      var mapProp = {
+        center: myLatLng,
+        zoom:16,
+        mapTypeId:google.maps.MapTypeId.ROADMAP
+      };
+      
+      var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 
-            var marker = new google.maps.Marker({
-              position: myLatLng,
-              map: map,
-              title: 'NSCamp 2016'
-            });
-          
-          }
-          google.maps.event.addDomListener(window, 'load', initialize);
-        </script>
-</head>
+      var marker = new google.maps.Marker({
+        position: myLatLng,
+        map: map,
+        title: 'NSCamp 2016'
+      });
+    
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+  </script>
+  <script async defer src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCEm6pdZXgaB95FWKyksoADffFsv1zOw-M&callback=initialize"></script>
+ </head>
 <body>
