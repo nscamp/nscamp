@@ -20,8 +20,9 @@
       var mapProp = {
         center: myLatLng,
         zoom:16,
-        mapTypeId:google.maps.MapTypeId.ROADMAP
-      };
+        mapTypeId:google.maps.MapTypeId.ROADMAP,
+      	disableDefaultUI: true
+};
       
       var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 

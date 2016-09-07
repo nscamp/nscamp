@@ -161,6 +161,30 @@ a:hover {
   width: 100%;
 }
 
+.footer {
+  position: relative;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+.outer {
+  height: 40px;
+  width: 100%px;
+  background-color: lightgray;
+}
+
+.footer-li {
+display:inline-block;
+white-space:nowrap;
+width:50%%;
+}
+
+li {
+font-size:15px;
+}
+
 .sponsors-3 .sponsor {
   width: 14.25%;
   height: 80px;
