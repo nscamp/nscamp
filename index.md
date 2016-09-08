@@ -46,7 +46,7 @@ Or just have a good time with other like-minded people?
 <div id="googleMap" style="height:480px; pointer-events: none;"></div><br/>
 
 
-<p id="register" style="margin-top:500px"><a href="/"><h2>Register Now</h2></a></p>
+<p id="register" style="margin-top:500px"><a href="/"><h2>Registration Opening Soon</h2></a></p>
 
 ---<br>
 
