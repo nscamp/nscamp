@@ -86,3 +86,10 @@ Once again, a heartfelt thank you goes out to our sponsors for making NSCamp pos
 
 ---
 
+<h2>Previous NSCamps</h2>
+<ul>
+  <li> NSCamp 2015, Broken Bay NSW. <a href="https://www.facebook.com/nextstepcamp/photos_stream">  Photos on Facebook </a> </li>
+  <li> NSCamp 2013, Kinglake Victoria. <a href="https://www.flickr.com/photos/109763057@N06/"> Photos on Flickr </a> </li>
+</ul>
+
+
