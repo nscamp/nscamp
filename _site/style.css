@@ -16,7 +16,6 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
   display: block;
 }
 
-
 body {
   overflow-x: hidden;
   color: #333;
@@ -49,9 +48,9 @@ p, .p {
 }
 small, .small { font-size: 16px; }
 
-/*#descp {
-  text-align: center;
-}*/
+#descp {
+  color: white;
+}
 
 @media screen and (min-width: 640px) {
   h1, .h1 { font-size: 48px; }
@@ -69,6 +68,10 @@ a:hover {
 }
 h1 a { color: #333;}
 
+h1.whiteheader a {
+ color: white;
+}
+
 hr {
   border-top: 1px solid #ccc;
 }
@@ -79,20 +82,42 @@ hr {
   right: 0px;
 }
 
+#hero {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  z-index: -1;
+}
+
 #register {
   color: #333;
 }
 
 .wrap {
-  width: 90%;
+  width: 100%;
   max-width: 768px;
   margin: 0 auto;
   padding: 32px 5% 64px 5%;
 }
 
-.m-0 { margin-top: 0; margin-bottom: 0; }
+
+.m-0 { 
+margin-top: 0; margin-bottom: 0;
+color: white;
+ }
 .mb { 
   margin-bottom: 64px;
+}
+
+.imgcontainer {
+   width: 100%;
+   height: 512px;
+}
+
+.container img {
+   width: 100%;
 }
 
 a:hover {
