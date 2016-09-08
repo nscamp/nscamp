@@ -20,8 +20,9 @@
       var mapProp = {
         center: myLatLng,
         zoom:16,
-        mapTypeId:google.maps.MapTypeId.ROADMAP
-      };
+        mapTypeId:google.maps.MapTypeId.ROADMAP,
+      	disableDefaultUI: true
+};
       
       var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 
@@ -53,6 +54,6 @@
   <p class="small gray"><time datetime="2013-01-01">01 January 2013</time></p>
 </article>
 </main>
-</div>
 </body>
 </html>
+

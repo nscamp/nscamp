@@ -20,8 +20,9 @@
       var mapProp = {
         center: myLatLng,
         zoom:16,
-        mapTypeId:google.maps.MapTypeId.ROADMAP
-      };
+        mapTypeId:google.maps.MapTypeId.ROADMAP,
+      	disableDefaultUI: true
+};
       
       var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 
@@ -46,6 +47,13 @@
   <p id="descp">A weekend of hacking for iOS, macOS, tvOS & watchOS developers everywhere.</p>
 </header>
 <main class="posts">
+<div style="text-align: center">
+<div style="display: inline-block">
+        <a id="footer-li" href="https://www.facebook.com/nextstepcamp"><img src="./img/fb.png" alt="NSFacebook" height="40" width="40" /></a>
+        <a id="footer-li" href="http://www.twitter.com/nscamp_au"><img src="./img/twitter.png" alt="NSBird" height="40" width="40" /></a>
+</div>
+</div>
+
 <hr />
 
 <p><br /></p>
@@ -58,7 +66,10 @@
 
 <h2 id="where">Where:</h2>
 
-<p><a href="https://www.lscph.org.au/">Lord Somers Camp</a>, 1.5hrs drive from Melbourne.</p>
+<p><a href="https://www.lscph.org.au/">Lord Somers Camp</a>, 1.5hrs drive from Melbourne CBD.</p>
+
+<p><a href="https://goo.gl/maps/8QcjfdcdzLB2">Directions</a> from Flinders Street Station<br />
+<a href="https://goo.gl/maps/aiTH9hjugGy">Directions</a> from Melbourne Airport</p>
 
 <p>—<br /></p>
 
@@ -133,6 +144,6 @@ Or just have a good time with other like-minded people?</p>
 
 
 </main>
-</div>
 </body>
 </html>
+

@@ -4,6 +4,13 @@ title:  "A weekend of hacking for iOS, macOS, tvOS & watchOS developers everywhe
 date:   2016-08-28
 ---
 
+<div style="text-align: center">
+<div style="display: inline-block">
+        <a id="footer-li" href="https://www.facebook.com/nextstepcamp"><img src="./img/fb.png" alt="NSFacebook" height="40" width="40"></a>
+        <a id="footer-li" href="http://www.twitter.com/nscamp_au"><img src="./img/twitter.png" alt="NSBird" height="40" width="40"></a>
+</div>
+</div>
+
 ---
 
 <br>
@@ -16,7 +23,10 @@ date:   2016-08-28
 
 ## Where:
 
-[Lord Somers Camp](https://www.lscph.org.au/), 1.5hrs drive from Melbourne.
+[Lord Somers Camp](https://www.lscph.org.au/), 1.5hrs drive from Melbourne CBD.
+
+[Directions](https://goo.gl/maps/8QcjfdcdzLB2) from Flinders Street Station<br>
+[Directions](https://goo.gl/maps/aiTH9hjugGy) from Melbourne Airport
 
 ---<br>
 
@@ -36,8 +46,7 @@ Or just have a good time with other like-minded people?
 <div id="googleMap" style="height:480px; pointer-events: none;"></div><br/>
 
 
-
-<p id="register" style="margin-top:500px"><a href="/"><h2>Register Now</h2></a></p>
+<p id="register" style="margin-top:500px"><a href="/"><h2>Registration Opening Soon</h2></a></p>
 
 ---<br>
 
