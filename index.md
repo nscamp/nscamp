@@ -64,7 +64,7 @@ Once again, a heartfelt thank you goes out to our sponsors for making NSCamp pos
 
 <div id="sponsor-food-drinks" class="sponsors-2">
   <h4>Food &amp; Drinks</h4>
-  <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
+  <a href="http://odecee.com.au" class="sponsor sponsor-odecee"><div>Odecee</div></a>
 </div>
 
 
