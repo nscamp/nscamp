@@ -13,7 +13,7 @@ date:   2016-08-28
 
 ## When:
 
-18th to the 22nd of November, 2016
+Friday 18th November - Sunday 20th November, 2016
 
 ---<br>
 
