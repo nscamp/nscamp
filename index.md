@@ -11,10 +11,6 @@ date:   2016-08-28
 </div>
 </div>
 
----
-
-<br>
-
 ## When:
 
 18th to the 22nd of November, 2016
@@ -92,6 +88,4 @@ Once again, a heartfelt thank you goes out to our sponsors for making NSCamp pos
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
 </div>
 
-
----
 
