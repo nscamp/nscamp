@@ -90,6 +90,8 @@ Once again, a heartfelt thank you goes out to our sponsors for making NSCamp pos
   <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
 </div>
 
+Want to sponsor us? [Get in touch!](mailto:nscamp@jtribe.com.au)
+
 ---
 
 ## Code of Conduct
