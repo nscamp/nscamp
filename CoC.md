@@ -36,9 +36,13 @@ limited to presentations, lightning talks, recruiter/job position or
 other promotions, mailing list posts and forums, is subject to this
 code of conduct and thus may not contain:
 
-- sexual or violent imagery;
-- exclusionary language;
-- insults or ad-hominem attacks.
+---
+
+<b>• sexual or violent imagery</b><br/>
+<b>• exclusionary language</b><br/>
+<b>• insults or ad-hominem attacks</b><br/>
+
+---
 
 Presenters are asked to avoid language which is not appropriate for an
 all-ages audience as much as possible.
@@ -66,19 +70,23 @@ behaviour.
 Here are some examples of behaviours that have occurred at tech events
 which are not appropriate:
 
-- offensive verbal or written remarks related to gender, sexual orientation,
-  disability, physical appearance, body size, race or religion;
-- sexual or violent images in public spaces (including presentation slides);
-- deliberate intimidation;
-- stalking or following;
-- unwanted photography or recording;
-- sustained disruption of talks or other events;
-- drunk or under the influence of illegal drugs at an event venue;
-- physical contact without consent;
-- unwelcome sexual attention;
-- sexist, racist, or other exclusionary jokes;
-- unwarranted exclusion from conference or related events based on
+---
+
+<b>• offensive verbal or written remarks related to gender, sexual orientation,
+  disability, physical appearance, body size, race or religion</b><br/>
+<b>• sexual or violent images in public spaces (including presentation slides)</b><br/>
+<b>• deliberate intimidation</b><br/>
+<b>• stalking or following</b><br/>
+<b>• unwanted photography or recording</b><br/>
+<b>• sustained disruption of talks or other events</b><br/>
+<b>• drunk or under the influence of illegal drugs at an event venue</b><br/>
+<b>• physical contact without consent</b><br/>
+<b>• unwelcome sexual attention</b><br/>
+<b>• sexist, racist, or other exclusionary jokes</b><br/>
+<b>• unwarranted exclusion from conference or related events based on
   age, gender, sexual orientation, disability, physical appearance, body size,
-  race, religion;
+  race, religion</b><br/>
+
+---
 
 We want everyone to have a good time at NSCamp.
