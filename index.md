@@ -15,7 +15,7 @@ date:   2016-08-28
 
 <br>
 
-## 18th to the 22nd of November, 2016
+## 18th to the 20th of November, 2016
 
 ---<br>
 
