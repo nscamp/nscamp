@@ -91,8 +91,14 @@ hr {
   z-index: -1;
 }
 
-#register {
+.register a {
   color: #333;
+  font-size: 42pt;
+  font-weight: bold;
+}
+
+.register a:hover {
+  color: #09c;
 }
 
 .wrap {

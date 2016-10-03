@@ -11,11 +11,11 @@ date:   2016-08-28
 </div>
 </div>
 
----
+<p class="register"><a href="https://www.eventbrite.com.au/e/nscamp-2016-tickets-27538463285">🎉 Get Your Tickets Here 🎉</a></p>
 
-<br>
+---<br>
 
-## 18th to the 20th of November, 2016
+## 18th to the 20th of November, 2016 
 
 ---<br>
 
@@ -30,7 +30,7 @@ date:   2016-08-28
 
 ## Who:
 
-iOS and macOS developers from around Australia, and maybe even the world!
+iOS and macOS developers from around Australia, and maybe even the world! ❤️
 
 ---<br>
 
@@ -43,14 +43,13 @@ Or just have a good time with other like-minded people?
 
 <div id="googleMap" style="height:480px; pointer-events: none;"></div><br/>
 
+---
 
-<p id="register" style="margin-top:500px"><a href="https://www.eventbrite.com.au/e/nscamp-2016-tickets-27538463285"><h2>Register Now!</h2></a></p>
-
----<br>
-
-## About NSCamp
+<div style="margin-top:500px">
+<h2>About NSCamp</h2><br>
 
 NSCamp was founded in 2013, and is Australia’s iOS, macOS, tvOS and watchOS developer camp. Part social getaway, part hacking weekend, developers can work on their side projects, as well as meet, collaborate with, present to and learn from like-minded people.
+</div>
 
 ---<br>
 
@@ -92,22 +91,17 @@ Once again, a heartfelt thank you goes out to our sponsors for making NSCamp pos
 
 Want to sponsor us? [Get in touch!](mailto:nscamp@jtribe.com.au)
 
----
+---<br>
 
-## Code of Conduct
+## Previous NSCamps
 
-[View](./CoC.html)
+2015 @ Broken Bay NSW. <a href="https://www.facebook.com/nextstepcamp/photos_stream">Photos on Facebook</a><br>
+2013 @ Kinglake VIC. <a href="https://www.flickr.com/photos/109763057@N06/"> Photos on Flickr </a>
 
-## FAQs
+---<br>
 
-[View](./FAQ.html)
+### The Boring Stuff
 
----
+[View Our Code of Conduct](./CoC.html)
 
-<h2>Previous NSCamps</h2>
-<ul>
-  <li> NSCamp 2015, Broken Bay NSW. <a href="https://www.facebook.com/nextstepcamp/photos_stream">  Photos on Facebook </a> </li>
-  <li> NSCamp 2013, Kinglake Victoria. <a href="https://www.flickr.com/photos/109763057@N06/"> Photos on Flickr </a> </li>
-</ul>
-
-
+[Frequently Asked Questions](./FAQ.html)
