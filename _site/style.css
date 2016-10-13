@@ -2,7 +2,8 @@
 
 /* BASSCSS Reset - http://jxnblk.github.io/basscss */
 body {
-	margin: 0;	
+	margin: 0;
+	margin-top: 48pt;
 }
 
 h1, h2, h3, h4, h5, h6, dl, ol, ul, p,
