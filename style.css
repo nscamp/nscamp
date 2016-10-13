@@ -1,9 +1,14 @@
 /* Styles for Heather - A Hyperminimal Jekyll Theme */
 
 /* BASSCSS Reset - http://jxnblk.github.io/basscss */
-body, h1, h2, h3, h4, h5, h6, dl, ol, ul, p,
+body {
+	margin: 0;	
+}
+
+h1, h2, h3, h4, h5, h6, dl, ol, ul, p,
 button, input, select, textarea {
-  margin: 0;
+  margin-right: 16pt;
+  margin-left: 16pt;
   margin-top: 16pt;
 }
 
@@ -19,6 +24,7 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
 body {
   overflow-x: hidden;
   color: #333;
+  width: 100%;
   font-size: 100%;
   line-height: 1.75;
   font-family: 'Merriweather', serif;
@@ -56,6 +62,12 @@ small, .small { font-size: 16px; }
   h1, .h1 { font-size: 48px; }
   h2, .h2 { font-size: 32px; }
   p, .p   { font-size: 20px; }
+}
+
+@media screen and (min-width: 320px) {
+  h1, .h1 { font-size: 28px; }
+  h2, .h2 { font-size: 18px; }
+  p, .p   { font-size: 14px; }
 }
 
 a { color: #09c; text-decoration: none; }
@@ -97,15 +109,35 @@ hr {
   font-weight: bold;
 }
 
+@media screen and (min-width: 320px) {
+  .register a { font-size: 14pt; }
+}
+
+@media screen and (min-width: 375px) {
+  .register a { font-size: 18pt; }
+}
+
+@media screen and (min-width: 414px) {
+  .register a { font-size: 20pt; }
+}
+
+@media screen and (min-width: 768px) {
+  .register a { font-size: 38pt; }
+}
+
+@media screen and (min-width: 1024px) {
+  .register a { font-size: 42pt; }
+}
+
 .register a:hover {
   color: #09c;
 }
 
 .wrap {
   width: 100%;
-  max-width: 768px;
-  margin: 0 auto;
-  padding: 32px 5% 64px 5%;
+  margin: 0;
+  /*padding: 32px 0% 64px 5%;*/
+  padding-left: 0px;
 }
 
 
@@ -115,6 +147,7 @@ color: white;
  }
 .mb { 
   margin-bottom: 64px;
+  padding-left: 0px;
 }
 
 .imgcontainer {
@@ -135,6 +168,9 @@ a:hover {
 
 .post { margin-bottom: 96px; }
 .post img { max-width: 100%; }
+.posts {
+	padding-left: 0px;
+}
 
 .center { text-align: center; }
 .fl { float: left; }
