@@ -76,20 +76,6 @@ Once again, a heartfelt thank you goes out to our sponsors for making NSCamp pos
 </div>
 
 
-<div id="sponsor-sailors" class="sponsors-3">
-  <h5>Sailors</h5>
-  <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
-  <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
-  <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
-</div>
-
-<div id="sponsor-mates" class="sponsors-3">
-  <h5>Mates</h5>
-  <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
-  <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
-  <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
-  <a href="http://nscamp.com" class="sponsor sponsor-placeholder"><div>placeholder</div></a>
-</div>
 
 Want to sponsor us? [Get in touch!](mailto:nscamp@jtribe.com.au)
 
