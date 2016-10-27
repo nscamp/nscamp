@@ -55,6 +55,10 @@ NSCamp was founded in 2013, and is Australia’s iOS, macOS, tvOS and watchOS de
 
 ---<br>
 
+<p class="register"><a href="https://www.eventbrite.com.au/e/nscamp-2016-tickets-27538463285">🎉 Get Your Tickets Here 🎉</a></p>
+
+---<br>
+
 ## Our Sponsors for 2016
 
 Once again, a heartfelt thank you goes out to our sponsors for making NSCamp possible in 2016.
