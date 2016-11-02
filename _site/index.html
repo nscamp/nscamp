@@ -1,0 +1,164 @@
+<!doctype html> 
+<html lang="en"> 
+<head>
+  <meta charset="utf-8">
+  <title>NSCamp</title>
+  <meta name="author" content="">
+  <meta name="description" content="A weekend of hacking for iOS, macOS, tvOS & watchOS developers everywhere.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" />
+  
+  <link rel="stylesheet" href="/style.css" />
+  <link href='http://fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'>
+
+  <script>
+    function initialize() {
+      var myLatLng = {lat: -38.390367, lng: 145.144640};
+
+      var mapProp = {
+        center: myLatLng,
+        zoom:16,
+        mapTypeId:google.maps.MapTypeId.ROADMAP,
+      	disableDefaultUI: true
+};
+      
+      var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+      var marker = new google.maps.Marker({
+        position: myLatLng,
+        map: map,
+        title: 'NSCamp 2016'
+      });
+    
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+  </script>
+  <script async defer src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCEm6pdZXgaB95FWKyksoADffFsv1zOw-M&callback=initialize"></script>
+ </head>
+<body>
+
+<div class="wrap">
+ 
+<header class="mb">
+  <div id="hero" style="height: 480px; background: url('./img/camp.jpg') no-repeat center center; background-size:cover;"></div>
+  <div id="teepee" style="width:100%; height: 200px; background: url('./img/teepee-white.png') no-repeat center center;"></div><br>
+  <h1 class="whiteheader" style="position: relative;"><a href="./index.html">NSCamp</a></h1>
+  <p id="descp">A weekend of hacking for iOS, macOS, tvOS & watchOS developers everywhere.</p>
+</header>
+
+<main class="posts">
+<div style="text-align: center">
+<div style="display: inline-block">
+        <a id="footer-li" href="https://www.facebook.com/nextstepcamp"><img src="./img/fb.png" alt="NSFacebook" height="40" width="40" /></a>
+        <a id="footer-li" href="http://www.twitter.com/nscamp_au"><img src="./img/twitter.png" alt="NSBird" height="40" width="40" /></a>
+</div>
+</div>
+
+<div style="width: 100%; text-align: center;"><p class="register"><a href="https://www.eventbrite.com.au/e/nscamp-2016-tickets-27538463285">Get Tickets</a></p></div>
+
+<p>—<br /></p>
+
+<h2>About NSCamp</h2>
+
+<p>
+Founded in 2013, NSCamp is Australia’s first iOS/macOS developer camp.<br />Part social getaway, part hack weekend, NSCamp creates an environment where developers can work on their own projects as well as meet, collaborate with, present to and learn from like-minded people.<br />Deliberately unstructured, NSCamp is designed to cultivate an environment where you can:<br /><br />
+• Spend time working your projects.<br />
+• Meet like-minded people from our community.<br />
+• Get together with others to create something new.<br />
+• Learn new techniques from your peers.<br />
+• Give adhoc talks to a friendly audience.<br /><br />
+NSCamp is regularly held around Australia.<br />2016's camp will take place in Victoria at Lord Somers Camp on the picturesque Mornington Peninsula.
+</p>
+
+<p>—<br /></p>
+
+<h1 id="th-to-the-20th-of-november-2016">18th to the 20th of November, 2016</h1>
+
+<p>—<br /></p>
+
+<h2 id="where">Where:</h2>
+
+<p><a href="http://www.lordsomerscamp.com/">Lord Somers Camp</a>, 1.5hrs drive from Melbourne CBD.</p>
+
+<p><a href="https://goo.gl/maps/8QcjfdcdzLB2">Directions</a> from Flinders Street Station<br />
+<a href="https://goo.gl/maps/aiTH9hjugGy">Directions</a> from Melbourne Airport</p>
+
+<p>—<br /></p>
+
+<h2 id="who">Who:</h2>
+
+<p>iOS and macOS developers from around Australia, and maybe even the world! ❤️</p>
+
+<p>—<br /></p>
+
+<h2 id="why">Why:</h2>
+
+<p>Wanna meet other devs?<br /> 
+<em>Finally</em> get that side project finished?<br /> 
+Create that open-source library you’ve spoken about since iPhoneOS 1.1?<br />
+Or just have a good time with other like-minded people?<br /></p>
+
+<div id="googleMap" style="height:480px; pointer-events: none;"></div>
+
+<p>—<br /></p>
+
+<div style="width: 100%; text-align: center; margin-top:500px;"><p class="register"><a href="https://www.eventbrite.com.au/e/nscamp-2016-tickets-27538463285">Get Tickets</a></p></div>
+
+<p>—<br /></p>
+
+<h2>Our Sponsors for 2016</h2>
+
+<p>
+Once again, a heartfelt thank you goes out to our sponsors for making NSCamp possible in 2016.
+</p>
+
+<div id="sponsor-captains" class="sponsors-1">
+  <h2>Captains</h2>
+  <a href="https://www.atlassian.com/" class="sponsor sponsor-atlassian"><div>Atlassian</div></a>
+  <a href="https://www.commbank.com.au/" class="sponsor sponsor-commbank"><div>CBA</div></a>
+</div>
+
+<div id="sponsor-lientenants" class="sponsors-2">
+  <h3>Lieutenants</h3>
+  <a href="http://jtribe.com.au" class="sponsor sponsor-jtribe"><div>jtribe</div></a>
+</div>
+
+<div id="sponsor-food-drinks" class="sponsors-2">
+  <h4>Food &amp; Drinks</h4>
+  <a href="http://odecee.com.au" class="sponsor sponsor-odecee"><div>Odecee</div></a>
+</div>
+
+<p>Want to sponsor us? <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#110;&#115;&#099;&#097;&#109;&#112;&#064;&#106;&#116;&#114;&#105;&#098;&#101;&#046;&#099;&#111;&#109;&#046;&#097;&#117;">Get in touch!</a></p>
+
+<p>—<br /></p>
+
+<h2 id="previous-nscamps">Previous NSCamps</h2>
+
+<p>2015 @ Broken Bay NSW. <a href="https://www.facebook.com/nextstepcamp/photos_stream">Photos on Facebook</a><br />
+2013 @ Kinglake VIC. <a href="https://www.flickr.com/photos/109763057@N06/"> Photos on Flickr </a></p>
+
+<p>—<br /></p>
+
+<h3 id="the-boring-stuff">The Boring Stuff</h3>
+
+<p><a href="./CoC.html">View Our Code of Conduct</a></p>
+
+<p><a href="./FAQ.html">Frequently Asked Questions</a></p>
+
+</main>
+      <!-- ANALYTICS -->
+      <script type="text/javascript" charset="utf-8">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-42367255-1', 'nscamp.com');
+        ga('send', 'pageview');
+      </script>
+
+</body>
+</html>
+

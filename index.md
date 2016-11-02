@@ -11,11 +11,25 @@ date:   2016-08-28
 </div>
 </div>
 
-<p class="register"><a href="https://www.eventbrite.com.au/e/nscamp-2016-tickets-27538463285">🎉 Get Your Tickets Here 🎉</a></p>
+<div style="width: 100%; text-align: center;"><p class="register"><a href="https://www.eventbrite.com.au/e/nscamp-2016-tickets-27538463285">Get Tickets</a></p></div>
 
 ---<br>
 
-## 18th to the 20th of November, 2016 
+<h2>About NSCamp</h2>
+
+<p>
+Founded in 2013, NSCamp is Australia’s first iOS/macOS developer camp.<br>Part social getaway, part hack weekend, NSCamp creates an environment where developers can work on their own projects as well as meet, collaborate with, present to and learn from like-minded people.<br>Deliberately unstructured, NSCamp is designed to cultivate an environment where you can:<br><br>
+• Spend time working your projects.<br>
+• Meet like-minded people from our community.<br>
+• Get together with others to create something new.<br>
+• Learn new techniques from your peers.<br>
+• Give adhoc talks to a friendly audience.<br><br>
+NSCamp is regularly held around Australia.<br>2016's camp will take place in Victoria at Lord Somers Camp on the picturesque Mornington Peninsula.
+</p>
+
+---<br>
+
+# 18th to the 20th of November, 2016 
 
 ---<br>
 
@@ -36,32 +50,24 @@ iOS and macOS developers from around Australia, and maybe even the world! ❤️
 
 ## Why:
 
-Wanna meet other devs? 
-_Finally_ get that side project finished? 
-Create that open-source library you've spoken about since iPhoneOS 1.1?
-Or just have a good time with other like-minded people?
+Wanna meet other devs?<br> 
+_Finally_ get that side project finished?<br> 
+Create that open-source library you've spoken about since iPhoneOS 1.1?<br>
+Or just have a good time with other like-minded people?<br>
 
-<div id="googleMap" style="height:480px; pointer-events: none;"></div><br/>
+<div id="googleMap" style="height:480px; pointer-events: none;"></div>
 
----
+---<br>
 
-<div style="margin-top:500px">
-<h2>About NSCamp</h2>
+<div style="width: 100%; text-align: center; margin-top:500px;"><p class="register"><a href="https://www.eventbrite.com.au/e/nscamp-2016-tickets-27538463285">Get Tickets</a></p></div>
+
+---<br>
+
+<h2>Our Sponsors for 2016</h2>
 
 <p>
-NSCamp was founded in 2013, and is Australia’s iOS, macOS, tvOS and watchOS developer camp. Part social getaway, part hacking weekend, developers can work on their side projects, as well as meet, collaborate with, present to and learn from like-minded people.
-</p>
-</div>
-
----<br>
-
-<p class="register"><a href="https://www.eventbrite.com.au/e/nscamp-2016-tickets-27538463285">🎉 Get Your Tickets Here 🎉</a></p>
-
----<br>
-
-## Our Sponsors for 2016
-
 Once again, a heartfelt thank you goes out to our sponsors for making NSCamp possible in 2016.
+</p>
 
 <div id="sponsor-captains" class="sponsors-1">
   <h2>Captains</h2>
@@ -78,8 +84,6 @@ Once again, a heartfelt thank you goes out to our sponsors for making NSCamp pos
   <h4>Food &amp; Drinks</h4>
   <a href="http://odecee.com.au" class="sponsor sponsor-odecee"><div>Odecee</div></a>
 </div>
-
-
 
 Want to sponsor us? [Get in touch!](mailto:nscamp@jtribe.com.au)
 
