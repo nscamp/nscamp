@@ -19,7 +19,7 @@ date:   2016-08-28
 
 <p>
 Founded in 2013, NSCamp is Australia’s first iOS/macOS developer camp.<br>Part social getaway, part hack weekend, NSCamp creates an environment where developers can work on their own projects as well as meet, collaborate with, present to and learn from like-minded people.<br>Deliberately unstructured, NSCamp is designed to cultivate an environment where you can:<br><br>
-• Spend time working your projects.<br>
+• Spend time working on your projects.<br>
 • Meet like-minded people from our community.<br>
 • Get together with others to create something new.<br>
 • Learn new techniques from your peers.<br>
